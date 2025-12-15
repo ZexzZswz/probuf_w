@@ -1,0 +1,11 @@
+C:/Users/ssq/Desktop/proto_new/protobuf-driver/build/CMakeFiles/INSTALL.dir
+C:/Users/ssq/Desktop/proto_new/protobuf-driver/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/ssq/Desktop/proto_new/protobuf-driver/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/ssq/Desktop/proto_new/protobuf-driver/build/protobuf-build/CMakeFiles/libprotobuf-lite.dir
+C:/Users/ssq/Desktop/proto_new/protobuf-driver/build/protobuf-build/CMakeFiles/libprotobuf.dir
+C:/Users/ssq/Desktop/proto_new/protobuf-driver/build/protobuf-build/CMakeFiles/INSTALL.dir
+C:/Users/ssq/Desktop/proto_new/protobuf-driver/build/protobuf-build/CMakeFiles/ALL_BUILD.dir
+C:/Users/ssq/Desktop/proto_new/protobuf-driver/build/protobuf-build/third_party/utf8_range/CMakeFiles/utf8_range.dir
+C:/Users/ssq/Desktop/proto_new/protobuf-driver/build/protobuf-build/third_party/utf8_range/CMakeFiles/utf8_validity.dir
+C:/Users/ssq/Desktop/proto_new/protobuf-driver/build/protobuf-build/third_party/utf8_range/CMakeFiles/INSTALL.dir
+C:/Users/ssq/Desktop/proto_new/protobuf-driver/build/protobuf-build/third_party/utf8_range/CMakeFiles/ALL_BUILD.dir

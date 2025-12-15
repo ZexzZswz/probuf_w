@@ -1,0 +1,7 @@
+# CMake generation dependency list for this directory.
+C:/Users/ssq/Desktop/proto_new/protobuf-33.2/third_party/utf8_range/CMakeLists.txt
+C:/Users/ssq/Desktop/proto_new/protobuf-33.2/third_party/utf8_range/cmake/utf8_range-config.cmake.in
+C:/Users/ssq/Desktop/proto_new/protobuf-33.2/third_party/utf8_range/cmake/utf8_range.pc.cmake
+D:/Program Files/CMake/share/cmake-3.28/Modules/CMakePackageConfigHelpers.cmake
+D:/Program Files/CMake/share/cmake-3.28/Modules/GNUInstallDirs.cmake
+D:/Program Files/CMake/share/cmake-3.28/Modules/WriteBasicConfigVersionFile.cmake
